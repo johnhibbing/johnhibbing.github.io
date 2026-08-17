@@ -1,0 +1,17 @@
+# 个人简历（隐私文件，勿公开）
+*.docx
+
+# Claude Code 会话状态
+.claude/
+
+# 临时抓取/导出文件
+_*.txt
+_*.json
+_*.html
+*.log
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
